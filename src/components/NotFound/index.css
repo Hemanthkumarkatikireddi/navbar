@@ -1,0 +1,24 @@
+.nf-head {
+  color: #334155;
+  font-size: 40px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.nf-para {
+  color: #64748b;
+  font-family: 'Roboto';
+}
+
+.nf-img {
+  height: 300px;
+  width: 300px;
+}
+
+.h {
+  color: white;
+}
+
+.p {
+  color: white;
+}
